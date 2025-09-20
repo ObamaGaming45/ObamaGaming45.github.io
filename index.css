@@ -1,0 +1,168 @@
+body
+{
+   background-color: #FFFFFF;
+   color: #000000;
+   font-family: Arial;
+   font-weight: normal;
+   font-size: 13px;
+   line-height: 1.1875;
+   margin: 0;
+   padding: 0;
+}
+a
+{
+   color: #0000FF;
+   text-decoration: underline;
+}
+a:visited
+{
+   color: #800080;
+}
+a:active
+{
+   color: #FF0000;
+}
+a:hover
+{
+   color: #0000FF;
+   text-decoration: underline;
+}
+input:focus, textarea:focus, select:focus
+{
+   outline: none;
+}
+#wb_Image1
+{
+   vertical-align: top;
+}
+#Image1
+{
+   border: 0px solid #000000;
+   border-radius: 0px;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#wb_Image2
+{
+   vertical-align: top;
+}
+#Image2
+{
+   border: 0px solid #000000;
+   border-radius: 0px;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#wb_Image3
+{
+   vertical-align: top;
+}
+#Image3
+{
+   border: 0px solid #000000;
+   border-radius: 0px;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#wb_Image4
+{
+   vertical-align: top;
+}
+#Image4
+{
+   border: 0px solid #000000;
+   border-radius: 0px;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#wb_Image5
+{
+   vertical-align: top;
+}
+#Image5
+{
+   border: 0px solid #000000;
+   border-radius: 0px;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#wb_Image6
+{
+   vertical-align: top;
+}
+#Image6
+{
+   border: 0px solid #000000;
+   border-radius: 0px;
+   padding: 0;
+   -webkit-transform: rotate(73deg);
+   transform: rotate(73deg);
+   -webkit-transform-origin: 50% 50%;
+   transform-origin: 50% 50%;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#Shape1
+{
+   border-width: 0;
+   vertical-align: top;
+}
+#TextArt1
+{
+   border-width: 0;
+   vertical-align: top;
+}
+#TextArt1
+{
+   filter: drop-shadow(1px 1px 0px rgba(145,58,0,0.20)) drop-shadow(2px 2px 0px rgba(145,58,0,0.20));
+}
+#wb_TextArt1
+{
+   margin: 0;
+   -webkit-animation: flip 500ms linear 0ms infinite normal both;
+   animation: flip 500ms linear 0ms infinite normal both;
+}
+#wb_Image7
+{
+   vertical-align: top;
+}
+#Image7
+{
+   border: 0px solid #000000;
+   border-radius: 0px;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#MediaPlayer1
+{
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
